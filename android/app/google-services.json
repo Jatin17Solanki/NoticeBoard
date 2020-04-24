@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710762363335",
+    "firebase_url": "https://notice-board-4a489.firebaseio.com",
+    "project_id": "notice-board-4a489",
+    "storage_bucket": "notice-board-4a489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710762363335:android:bccaf6bc69c6e96f8681e2",
+        "android_client_info": {
+          "package_name": "com.yozz.notice_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710762363335-lt1bs341re1n9g0488vqf0d1o038sdf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKawHorMoCqKXXfX3DFjOXNDrAsEkJ9P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710762363335-lt1bs341re1n9g0488vqf0d1o038sdf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
